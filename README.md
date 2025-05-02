@@ -1,20 +1,20 @@
-<h1>Hi, I'm Mehdi! <br/><a href="www.linkedin.com/in/mehdi-bouchebri-ba4917356">Aerospace Engineer</a>, 
+<h1>Hi, I'm Mehdi <br/><a href="www.linkedin.com/in/mehdi-bouchebri-ba4917356">Aerospace Engineer</a>, 
 <h2>👨‍💻 University Projects:</h2>
 
 - <b>Advanced Energy & Power (ASPEN PLUS)</b>
-  - [Micro Gas Turbine Power Generation Simulation on ASPEN Plus](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Micro Gas Turbine Power Generation Simulation on ASPEN Plus](https://github.com/Mehdi334/Energy-Power)
 - <b>Experiments & Valid Computer Models</b>
-  - [Diffuser Cone Angle & Reynolds Number Investigation](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Diffuser Cone Angle & Reynolds Number Investigation](https://github.com/Mehdi334/Fluids-Valid-Models) 
 - <b> XFoil Aerodynamic Design </b>
-  - [Optimal NACA 4 Series Aerofoil Profile for minimising drag of Micro UAV](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Optimal NACA 4 Series Aerofoil Profile for minimising drag of Micro UAV](https://github.com/Mehdi334/XFoil)
 - <b> Aircraft Dynamics & Control </b>
-  - [ Flight Course Assignment (Static & Dynamic Stability Calculation of Cessna 172)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [ Flight Course Assignment (Static & Dynamic Stability Calculation of Cessna 172)](https://github.com/Mehdi334/Aircraft-Dynamics-Control)
 
 
 <h2>📺 My Projects</h2>
 
 - [Jet 7 - Iron Man Suit](https://github.com/Mehdi334/Jet-7)
-- [Fusion 360 Course](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Fusion 360 Course](https://github.com/Mehdi334/Fusion360)
 - [Botball Competition - Nationwide robotics competition CMUQ](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Machining Training - Manual Turning & Milling](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
