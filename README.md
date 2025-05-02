@@ -13,7 +13,7 @@
 
 <h2>📺 My Projects</h2>
 
-- [Jet 7 - Iron Man Suit](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Jet 7 - Iron Man Suit](https://github.com/Mehdi334/Jet-7)
 - [Fusion 360 Course](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Botball Competition - Nationwide robotics competition CMUQ](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Machining Training - Manual Turning & Milling](https://www.youtube.com/watch?v=OfvdQeh79s0)
