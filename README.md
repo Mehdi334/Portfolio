@@ -15,7 +15,7 @@
 
 - [Jet 7 - Iron Man Suit](https://github.com/Mehdi334/Jet-7)
 - [Fusion 360 Course](https://github.com/Mehdi334/Fusion360)
-- [Botball Competition - Nationwide robotics competition CMUQ](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Botball Competition - Nationwide robotics competition CMUQ](https://github.com/Mehdi334/Botball)
 - [Machining Training - Manual Turning & Milling](https://github.com/Mehdi334/Machining)
 - [Image Link Geneator](https://img.vdoerig.com) 
 
