@@ -2,7 +2,7 @@
 <h2>👨‍💻 University Projects:</h2>
 
 - <b>Advanced Energy & Power (ASPEN PLUS)</b>
-  - [Micro Gas Turbine Power Generation Simulation on ASPEN Plus](https://github.com/Mehdi334/Energy-Power)
+  - [Micro Gas Turbine Simulation on ASPEN Plus](https://github.com/Mehdi334/Energy-Power)
 - <b>Experiments & Valid Computer Models</b>
   - [Diffuser Cone Angle & Reynolds Number Investigation](https://github.com/Mehdi334/Fluids-Valid-Models) 
 - <b> XFoil Aerodynamic Design </b>
